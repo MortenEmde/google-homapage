@@ -1,0 +1,2 @@
+This is the first project i will be doing with TOP.
+Once I have compleated this I should hopefully be able to apply most of the lernings from programming 101 such as CSS, HTML, Git, Github, Browser developer tool.
