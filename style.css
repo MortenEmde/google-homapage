@@ -1,0 +1,91 @@
+body {
+    font-family: arial,sans-serif;
+}
+
+span a {
+    display: inline;
+    padding-right:20px;
+    padding-top: 20px;
+    background-color: #eeeeee;
+    text-decoration: none;
+    text-align: left;
+    color: #555555;
+  }
+
+#mainspan {
+    float: left;
+}
+
+#secondspan {
+    float: right;
+}
+
+span a:hover, a:hover {
+    text-decoration-line: underline
+}
+
+footer, form, span {
+font-size: 14px;
+}
+
+.offered {
+font-size: small;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    padding-top: 160px;
+}
+
+.search {
+    width: 530px;
+    height: 40px;
+}
+
+.b1, .b2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    background: #eeeeee;
+    font-size: 14px;
+    margin: 4px;
+}
+
+html,
+body {
+margin:0;
+padding:0;
+height:100%;
+background:  #ffffff;
+}
+
+#container {
+min-height:100%;
+position:relative;
+background:  #ffffff;
+}
+
+#body {
+padding:10px;
+padding-bottom:60px; 
+background:  #ffffff;
+}
+
+#footer {
+position:absolute;
+bottom:0;
+width:100%;  
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 20px;
+text-align: left;
+color: #555555;
+background: #eeeeee;
+border-top: 1px solid #dddddd;
+}
